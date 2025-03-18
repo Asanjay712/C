@@ -1,4 +1,5 @@
-# The Algorithms - C # {#mainpage}
+
+This project is a simple example of using GitHub for version control.# The Algorithms - C # {#mainpage}
 <!-- the suffix in the above line is required for doxygen to consider this as the index page of the generated documentation site -->
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/TheAlgorithms/C)
